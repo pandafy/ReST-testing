@@ -1,1 +1,4 @@
-.. include:: sub-section.rst
+ReST-testing
+============
+
+.. include:: ./sub-section.rst
